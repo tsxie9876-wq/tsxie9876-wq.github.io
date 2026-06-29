@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "images/profile.jpg"
+  name             : "谢泰升"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student in Economics"
   location         : "Dallas, TX"
