@@ -7,40 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Operations Research / Management Science at the [School of Economic and Trade, Hunan University](https://www.hnu.edu.cn/), advised by Professor [Erbao Cao](https://scholar.google.com/). My research lies at the intersection of **platform economics**, **information design**, and **supply chain management**.
+---
+permalink: /
+title: "Taisheng Xie"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-My work develops analytical models—primarily using Bayesian persuasion frameworks—to study how platforms strategically design and disclose demand forecast information to influence supplier channel decisions, and how government regulation should respond to such information asymmetries. A related strand examines optimal information design for entry deterrence in competing supply chains.
+I am a Ph.D. candidate in Applied Economics at the [School of Economic and Trade, Hunan University](https://set.hnu.edu.cn/), currently visiting at the University of Texas at Dallas. I received my M.A. in Applied Economics from Hunan University and my B.E. in Automation from Zhengzhou University.
 
-I am currently preparing papers for submission to *European Journal of Operational Research* (EJOR), *Naval Research Logistics* (NRL), *Mathematics of Operations Research* (MOR), and *经济研究 (Economic Research)*.
+My research sits at the intersection of platform economics, supply chain management, and information design. I am broadly interested in how retail platforms — such as Amazon and JD.com — use algorithms and information systems to mediate relationships among suppliers, consumers, and regulators, and in the welfare consequences of these design choices. Much of my work uses Bayesian persuasion and game-theoretic models to study the strategic logic behind platform information disclosure: why platforms choose to reveal certain information and conceal others, how this shapes supplier and consumer behavior, and when regulatory intervention is warranted. I am also drawn to questions at the frontier of sustainable operations, exploring how ESG considerations enter the incentive structures of platform supply chains.
+
+Please feel free to reach out at [taisheng.pak@foxmail.com](mailto:taisheng.pak@foxmail.com). I am happy to discuss research ideas related to platform economics, information design, and supply chain management.
 
 ## Research Interests
 
-- Platform supply chain information design
-- Bayesian persuasion and information economics
-- Supplier encroachment and channel competition
-- E-commerce platform regulation and policy
-- ESG, platform economics, and SME sustainability
+- Platform Economics
+- Supply Chain Management
+- Information Design and Bayesian Persuasion
+- Government Regulation
+- Sustainable Operations Management
 
 ## Working Papers
 
-- **"Persuasion or Commission? Designing Demand Forecasts for a Supplier's Channel Distribution"**  
-  *(with Erbao Cao)* — Under review at *European Journal of Operational Research*
-
-- **"Bayesian Persuasion in Platform Supply Chains: Optimal Demand Information Design under Supplier Encroachment"**  
-  *(with Erbao Cao, [Co-authors])* — Major revision at *Naval Research Logistics*
-
-- **"Optimal Information Design for Entry Deterrence in Competing Supply Chains"**  
-  — Under review at *Mathematics of Operations Research*
-
-- **"平台信息设计、供应链效率与政府规制"** (Platform Information Design, Supply Chain Efficiency, and Government Regulation)  
-  — Under review at *经济研究 (Economic Research)*
-
-## Education
-
-- **Ph.D. in Management Science & Engineering** (in progress)  
-  Hunan University, Changsha, China  
-  Advisor: Professor Erbao Cao
-
-## Contact
-
-Feel free to reach out via email. I am happy to discuss research ideas related to platform economics, information design, and supply chain management.
+- "Persuasion or Commission? Demand Forecast Design for Supplier Channel Distribution"
+- "Optimal Demand Information Design under Supplier Encroachment"
+- "Optimal Information Design for Entry Deterrence in Competing Supply Chains"
+- "Platform Information Design, Supply Chain Efficiency, and Government Regulation"
