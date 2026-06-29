@@ -1,6 +1,6 @@
 ---
 permalink: /extracurricular/
-title: "Extracurricular"
+title: ""
 author_profile: true
 ---
 
