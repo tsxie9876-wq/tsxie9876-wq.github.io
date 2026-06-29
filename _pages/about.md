@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Taisheng Xie"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
