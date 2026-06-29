@@ -27,15 +27,15 @@ author:
   name             : "谢泰升"
   pronouns         :
   bio              : "Ph.D. Candidate in Management Science"
-  location         : "Changsha, China"
-  employer         : "Hunan University"
+  location         : "Dallas, TX"
+  employer         : "Hunan University & UT Dallas"
   uri              :
-  email            : "your@email.com"
+  email            : "taisheng.pak@foxmail.com"
 
   # Academic websites
   academia         :
   arxiv            :
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    :
   inspire-hep      :
   impactstory      :
   orcid            :
@@ -50,7 +50,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "tsxie9876-wq"
+  github           :
   kaggle           :
   stackoverflow    :
 
