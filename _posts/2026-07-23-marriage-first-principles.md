@@ -20,7 +20,7 @@ author_profile: true
 
 <div style="margin-top: 1.5rem;">
 
-<a href="/files/notes/婚姻第一性原理测度表.pdf" target="_blank" style="display:inline-block;margin-right:0.5rem;margin-bottom:0.5rem;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
+<a href="/files/notes/marriage-first-principles.pdf" target="_blank" style="display:inline-block;margin-right:0.5rem;margin-bottom:0.5rem;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
 查看 PDF
 </a>
 
