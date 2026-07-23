@@ -1,5 +1,5 @@
 ---
-title: "婚姻第一性原理测度表"
+title: "伴侣契合度与战略适配量化评估表"
 date: 2026-07-23
 categories:
   - notes
