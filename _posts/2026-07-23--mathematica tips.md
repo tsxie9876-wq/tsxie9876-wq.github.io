@@ -6,7 +6,7 @@ categories:
 tags:
   - Mathematica
   - 供应链管理
-excerpt: "使用Mathematica构建供应链模型入门的一些小tips"
+excerpt: "使用Mathematica构建供应链模型的一些入门小tips"
 permalink: /notes/how-to-get-along-with-others/
 author_profile: true
 ---
