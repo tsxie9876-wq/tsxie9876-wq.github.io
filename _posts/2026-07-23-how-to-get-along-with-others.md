@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="margin-top:1.5rem;">
 
-<a href="/files/notes/how-to-get-along-with-others.pdf" target="_blank" style="display:inline-block;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
+<a href="/files/notes/How_to_get_along_with_others.pdf" target="_blank" style="display:inline-block;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
 查看 PDF
 </a>
 
