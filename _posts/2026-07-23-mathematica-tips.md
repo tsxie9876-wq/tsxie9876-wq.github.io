@@ -7,7 +7,7 @@ tags:
   - Mathematica
   - 供应链管理
 excerpt: "使用Mathematica构建供应链模型的一些入门小tips"
-permalink: /notes/how-to-get-along-with-others/
+permalink: /notes/mathematica-tips/
 author_profile: true
 ---
 
@@ -17,7 +17,7 @@ author_profile: true
 
 <div style="margin-top:1.5rem;">
 
-<a href="/files/notes/mathematica tips.nb" target="_blank" style="display:inline-block;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
+<a href="/files/notes/mathematica-tips.nb" target="_blank" style="display:inline-block;padding:0.45rem 0.85rem;border:1px solid #52adc8;border-radius:5px;color:#3185a3;text-decoration:none;">
 查看NB
 </a>
 
